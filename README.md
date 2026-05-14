@@ -2,7 +2,7 @@
 
 ## Project Files
 Google Drive Folder:  
-https://drive.google.com/drive/folders/17G7b-M36kWG6zDdYNXfYY4tRTV8nUp1H
+https://drive.google.com/file/d/1i6T6Vp2j6fOV9hDxC9tTrC_tuPKk8kjQ/view?usp=sharing
 
 ## Description
 This project is a Restaurant Management System developed using Python.  
